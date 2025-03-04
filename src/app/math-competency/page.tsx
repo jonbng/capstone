@@ -20,12 +20,12 @@ export default function MathCompetency() {
           </CardTitle>
         </CardHeader>
         <CardContent>
-          {/* <iframe
+          <iframe
             src="https://embed.figma.com/deck/xdrg5WmlOAqFEt3nHmZokT/Untitled?node-id=3-82&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share"
             allowFullScreen
             className="w-full aspect-[1.667] rounded-lg"
-          /> */}
-          Presentation goes here. 
+          />
+          {/* Presentation goes here.  */}
           <embed
             src="https://cdn.prod.website-files.com/65f1d299b87bcc50550a6398/66a46f7b2a6137a25d3f69bb_Digital%20Education%20Council%20Global%20AI%20Student%20Survey%202024.pdf"
             width="100%"
