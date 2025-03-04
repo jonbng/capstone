@@ -104,11 +104,11 @@ export default function Home() {
             <p className="mb-6 text-lg">
               AI is transforming education by making learning more personalized
               and accessible. But how do we balance automation with human
-              creativity? My research explores how AI can assist students and
-              teachers while preserving critical thinking, focusing on tutoring,
-              adaptive learning, and ethical use in schools. I chose this topic
-              because its something I am genuinely interested in, and I want to
-              learn more about it.
+              creativity? My project goes into how AI can be used to assist
+              students and teachers while preserving critical thinking, and how
+              its currently being implemented. I chose this topic because its
+              something I am genuinely interested in, and I want to learn more
+              about it.
             </p>
             <div className="flex flex-wrap gap-2">
               <Badge className="text-base px-3 py-1">AI</Badge>
