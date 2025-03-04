@@ -1,7 +1,7 @@
-"use client"
+"use client";
 
-import { motion } from "framer-motion"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { motion } from "framer-motion";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 export default function DurableSkills() {
   return (
@@ -21,11 +21,10 @@ export default function DurableSkills() {
         </CardHeader>
         <CardContent>
           <p className="text-lg">
-            Strong communication and critical thinking are essential for turning
-            ideas into reality. Communication helped me gather insights from
-            experts, collaborate effectively, and present my work clearly.
-            Critical thinking allowed me to analyze data, solve problems
-            efficiently, and ensure my project was both practical and
+            Communication and critical thinking are essential for turning ideas
+            into reality. Communication helped me interview people, and present
+            my work clearly. Critical thinking allowed me to analyze data, solve
+            problems efficiently, and ensure my project was both practical and
             innovative.
           </p>
         </CardContent>
@@ -40,11 +39,11 @@ export default function DurableSkills() {
         <CardContent>
           <p className="text-lg">
             I used communication to interview Ms. Lindblom, which gave me
-            valuable insights that shaped my project. It was also crucial for
-            creating my website and presentation, ensuring that my findings were
-            clear and easy to understand. Writing, presenting, and explaining my
-            work effectively helped me share my ideas in a way that made sense
-            to others.
+            valuable insights into my topic. I also used communication for
+            creating my website and presentation, making sure that my findings
+            were clear and easy to understand. Writing, presenting, and
+            explaining my work effectively helped me present my work in a way
+            that makes sense to others.
           </p>
         </CardContent>
       </Card>
@@ -57,16 +56,15 @@ export default function DurableSkills() {
         </CardHeader>
         <CardContent>
           <p className="text-lg">
-            Critical thinking was key in tackling the math part of my project
-            and making sure my approach was logical and well-structured. I had
-            to break down complex problems, test different solutions, and make
-            sure everything worked as intended. It also played a role in
-            developing my product, helping me think through challenges, analyze
-            different options, and create something practical and effective.
+            Critical thinking was important for the math part of my project and
+            making sure my approach was logical and well-structured. I had to
+            test different solutions, and make sure everything worked as
+            intended. It also played a role in developing my product, helping me
+            think through challenges, analyze different options, and create
+            something practical and effective.
           </p>
         </CardContent>
       </Card>
     </motion.div>
   );
 }
-
