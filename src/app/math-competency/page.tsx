@@ -16,7 +16,7 @@ export default function MathCompetency() {
       <Card className="overflow-hidden">
         <CardHeader>
           <CardTitle className="text-3xl">
-            Presentation - OLD VERSION (WILL BE UPDATED)
+            Presentation
           </CardTitle>
         </CardHeader>
         <CardContent>
