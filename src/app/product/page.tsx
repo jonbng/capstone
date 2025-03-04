@@ -42,7 +42,7 @@ export default function Product() {
             learning, simplifies administrative tasks, and supports both
             students and teachers in the classroom.
           </p>
-          <p className="text-lg">
+          <p className="text-lg mb-4">
             It's a ChatGPT-like assistant built for education, similar to
             MagicSchool but with added features to make it more useful in a
             school setting.

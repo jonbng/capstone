@@ -51,9 +51,9 @@ export default function ProfessionalSkills() {
               <p className="flex-1 text-lg">
                 I decided to interview Leah Lindblom, the technology
                 administrator at Arvada West High School. I chose her because
-                she is a field expert in the intersection of education and
-                technology, and I wanted to learn more about how Generative AI
-                is being used in schools.
+                she is a field expert in the both education and technology, and
+                I wanted to learn more about how Generative AI is being used in
+                schools.
               </p>
             </div>
           </div>
