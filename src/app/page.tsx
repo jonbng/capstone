@@ -19,7 +19,7 @@ export default function Home() {
           Jonathan Bangert
         </h1>
         <p className="text-2xl text-muted-foreground">
-          Capstone Portfolio: Students Generative AI use in school
+          Capstone Portfolio: Students' Use of Generative AI in School
         </p>
       </motion.section>
 
@@ -47,10 +47,14 @@ export default function Home() {
                 make technology more intuitive and impactful. I co-founded
                 Akademia, work as a Software Engineer at Flimmer, and enjoy
                 creating tools that last.
+                <br />I am a Junior at Arvada West High School, and will be
+                returning to Denmark this summer.
               </p>
-                <Button onClick={() => window.open("https://jonathanb.dk", "_blank")}>
-                Check out personal website
-                </Button>
+              <Button
+                onClick={() => window.open("https://jonathanb.dk", "_blank")}
+              >
+                Check out my personal website
+              </Button>
             </div>
           </CardContent>
         </Card>
