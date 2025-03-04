@@ -48,7 +48,9 @@ export default function Home() {
                 Akademia, work as a Software Engineer at Flimmer, and enjoy
                 creating tools that last.
               </p>
-              <Button>Check out personal website</Button>
+                <Button onClick={() => window.open("https://jonathanb.dk", "_blank")}>
+                Check out personal website
+                </Button>
             </div>
           </CardContent>
         </Card>
