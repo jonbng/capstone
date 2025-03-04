@@ -1,10 +1,16 @@
-"use client"
+"use client";
 
-import { motion } from "framer-motion"
-import Image from "next/image"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { Button } from "@/components/ui/button"
+import { motion } from "framer-motion";
+import Image from "next/image";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
@@ -100,7 +106,9 @@ export default function Home() {
               and accessible. But how do we balance automation with human
               creativity? My research explores how AI can assist students and
               teachers while preserving critical thinking, focusing on tutoring,
-              adaptive learning, and ethical use in schools.
+              adaptive learning, and ethical use in schools. I chose this topic
+              because its something I am genuinely interested in, and I want to
+              learn more about it.
             </p>
             <div className="flex flex-wrap gap-2">
               <Badge className="text-base px-3 py-1">AI</Badge>
@@ -114,4 +122,3 @@ export default function Home() {
     </div>
   );
 }
-

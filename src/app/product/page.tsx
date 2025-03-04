@@ -1,10 +1,10 @@
-"use client"
+"use client";
 
-import { motion } from "framer-motion"
-import Link from "next/link"
-import Image from "next/image"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardFooter } from "@/components/ui/card"
+import { motion } from "framer-motion";
+import Link from "next/link";
+import Image from "next/image";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardFooter } from "@/components/ui/card";
 
 export default function Product() {
   return (
@@ -47,6 +47,10 @@ export default function Product() {
             MagicSchool but with added features to make it more useful in a
             school setting.
           </p>
+          <p className="text-lg">
+            This product relates to my capstone project as it addresses the need
+            for a better way to integrate AI in schools.
+          </p>
         </CardContent>
         <CardFooter className="bg-accent/10 p-6">
           <Button
@@ -67,4 +71,3 @@ export default function Product() {
     </motion.div>
   );
 }
-
