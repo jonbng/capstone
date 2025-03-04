@@ -1,6 +1,6 @@
 export default function Transcript() {
   return (
-    <div className="overflow-y-scroll h-[calc(100vh-200px)]">
+    <div className="h-max pb-32">
       <p>
         <strong>Jonathan</strong> (00:00)
         <br /> Okay, so thank you for taking the time

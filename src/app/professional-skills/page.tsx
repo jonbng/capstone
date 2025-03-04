@@ -122,13 +122,13 @@ export default function ProfessionalSkills() {
                 View Full Transcript
               </Button>
             </DialogTrigger>
-            <DialogContent className="max-w-4xl max-h-[80vh]">
+            <DialogContent className="max-w-4xl max-h-[80vh] overflow-hidden">
               <DialogHeader>
                 <DialogTitle className="text-2xl">
                   Full Interview Transcript
                 </DialogTitle>
               </DialogHeader>
-              <div className="mt-4 space-y-4 overflow-hidden">
+              <div className="mt-4 space-y-4 overflow-scroll h-[80vh]">
                 <Transcript />
               </div>
             </DialogContent>
