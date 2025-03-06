@@ -25,7 +25,8 @@ export default function Home() {
           Jonathan Bangert
         </h1>
         <p className="text-2xl text-muted-foreground">
-          Capstone Portfolio: Students' Use of Generative AI in School (Math & English Capstone)
+          Capstone Portfolio: Students' Use of Generative AI in School (Math &
+          English Capstone)
         </p>
       </motion.section>
 
@@ -105,9 +106,11 @@ export default function Home() {
               AI is transforming education by making learning more personalized
               and effecient. It is here to stay, there is no way around it. But
               how do we integrate AI best into our education system? How do we
-              preserve human creativity and critical thinking? I chose this
-              topic because its something I am genuinely interested in, and I
-              want to learn more about it.
+              preserve human creativity and critical thinking? I want to look
+              into these questions and figure out where schools currently are in
+              the process of integrating AI into their curriculum.
+              <br />I chose this topic because its something I am genuinely
+              interested in, and I want to learn more about it.
             </p>
             {/* <div className="flex flex-wrap gap-2">
               <Badge className="text-base px-3 py-1">AI</Badge>
