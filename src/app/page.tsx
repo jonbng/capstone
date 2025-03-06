@@ -25,7 +25,7 @@ export default function Home() {
           Jonathan Bangert
         </h1>
         <p className="text-2xl text-muted-foreground">
-          Capstone Portfolio: Students' Use of Generative AI in School
+          Capstone Portfolio: Students' Use of Generative AI in School (Math & English Capstone)
         </p>
       </motion.section>
 
