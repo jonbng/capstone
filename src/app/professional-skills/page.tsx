@@ -151,13 +151,12 @@ export default function ProfessionalSkills() {
             It was interesting to hear that schools are still figuring out how
             to handle AI, with some teachers excited about it and others trying
             to avoid it. I also didn’t expect that being a school tech admin
-            doesn’t really involve much math. It is more about problem solving
-            and keeping everything running.
+            doesn’t really involve much math.
             <br />
             <br />
             Overall, it was cool to see how AI is already changing schools and
-            how they are trying to keep up. It is not going anywhere, so the
-            real challenge is figuring out the best way to use it.
+            how they are trying to keep up. It is not going anywhere, so we
+            really need to figure out the best way to integrate it.
           </p>
         </CardContent>
       </Card>
