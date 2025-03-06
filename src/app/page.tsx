@@ -59,7 +59,7 @@ export default function Home() {
               <Button
                 onClick={() => window.open("https://jonathanb.dk", "_blank")}
               >
-                Check out my personal website
+                Check out my personal website!
               </Button>
             </div>
           </CardContent>
@@ -103,19 +103,18 @@ export default function Home() {
           <CardContent>
             <p className="mb-6 text-lg">
               AI is transforming education by making learning more personalized
-              and accessible. But how do we balance automation with human
-              creativity? My project goes into how AI can be used to assist
-              students and teachers while preserving critical thinking, and how
-              its currently being implemented. I chose this topic because its
-              something I am genuinely interested in, and I want to learn more
-              about it.
+              and effecient. It is here to stay, there is no way around it. But
+              how do we integrate AI best into our education system? How do we
+              preserve human creativity and critical thinking? I chose this
+              topic because its something I am genuinely interested in, and I
+              want to learn more about it.
             </p>
-            <div className="flex flex-wrap gap-2">
+            {/* <div className="flex flex-wrap gap-2">
               <Badge className="text-base px-3 py-1">AI</Badge>
               <Badge className="text-base px-3 py-1">Education</Badge>
               <Badge className="text-base px-3 py-1">Technology</Badge>
               <Badge className="text-base px-3 py-1">Innovation</Badge>
-            </div>
+            </div> */}
           </CardContent>
         </Card>
       </motion.section>
