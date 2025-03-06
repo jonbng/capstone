@@ -21,11 +21,10 @@ export default function DurableSkills() {
         </CardHeader>
         <CardContent>
           <p className="text-lg">
-            Communication and critical thinking are essential for turning ideas
+            Communication and critical thinking are important for turning ideas
             into reality. Communication helped me interview people, and present
-            my work clearly. Critical thinking allowed me to analyze data, solve
-            problems efficiently, and ensure my project was both practical and
-            innovative.
+            my work in a way that made sense. Critical thinking allowed me to analyze data, solve
+            problems quickly, and was used to develop my product.
           </p>
         </CardContent>
       </Card>
@@ -39,8 +38,8 @@ export default function DurableSkills() {
         <CardContent>
           <p className="text-lg">
             I used communication to interview Ms. Lindblom, which gave me
-            valuable insights into my topic. I also used communication for
-            creating my website and presentation, making sure that my findings
+            important insights into my topic. I also used communication for
+            creating my website and presentation, making sure that my data
             were clear and easy to understand. Writing, presenting, and
             explaining my work effectively helped me present my work in a way
             that makes sense to others.
@@ -57,8 +56,8 @@ export default function DurableSkills() {
         <CardContent>
           <p className="text-lg">
             Critical thinking was important for the math part of my project and
-            making sure my approach was logical and well-structured. I had to
-            test different solutions, and make sure everything worked as
+            making sure my approach was logical and well structured. I had to
+            use different solutions, and make sure everything worked as
             intended. It also played a role in developing my product, helping me
             think through challenges, analyze different options, and create
             something practical and effective.
