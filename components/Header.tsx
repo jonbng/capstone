@@ -19,6 +19,11 @@ const Header = () => {
             </Link>
           </li>
           <li>
+            <Link href="/introduction" className="hover:text-primary transition-colors">
+              Introduction
+            </Link>
+          </li>
+          <li>
             <Link href="/math-competency" className="hover:text-primary transition-colors">
               Math Competency
             </Link>
