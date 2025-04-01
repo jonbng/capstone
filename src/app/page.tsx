@@ -105,10 +105,13 @@ export default function Home() {
             <p className="mb-6 text-lg">
               AI is transforming education by making learning more personalized
               and effecient. It is here to stay, there is no way around it. But
-              how do we integrate AI best into our education system? How do we
-              preserve human creativity and critical thinking? I want to look
-              into these questions and figure out where schools currently are in
-              the process of integrating AI into their curriculum.
+              how do we integrate AI best into our education system? How can
+              K-12 schools implement a comprehensive AI integration framework
+              that effectively teaches AI literacy and utilization? How do we
+              preserve student creativity and authentic learning while doing so?
+              I want to look into these questions and figure out where schools
+              currently are in the process of integrating AI into their
+              curriculum.
               <br />I chose this topic because its something I am genuinely
               interested in, and I want to learn more about it.
             </p>
