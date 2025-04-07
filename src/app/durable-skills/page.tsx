@@ -71,7 +71,7 @@ export default function DurableSkills() {
             making sure my approach was logical and well structured. I had to
             use different solutions, and make sure everything worked as
             intended. It was also really important while I was developing my
-            product. It hlped me think through challenges, analyze different
+            product. It helped me think through challenges, analyze different
             options, and create something practical and effective. Last but not
             least, I used critical thinking while researching my topic. I had to
             judge different sources for credibility and relevance, and make sure

@@ -19,39 +19,65 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Link href="/introduction" className="hover:text-primary transition-colors">
+            <Link
+              href="/introduction"
+              className="hover:text-primary transition-colors"
+            >
               Introduction
             </Link>
           </li>
           <li>
-            <Link href="/math-competency" className="hover:text-primary transition-colors">
+            <Link
+              href="/math-competency"
+              className="hover:text-primary transition-colors"
+            >
               Math Competency
             </Link>
           </li>
           <li>
-            <Link href="/research" className="hover:text-primary transition-colors">
+            <Link
+              href="/research"
+              className="hover:text-primary transition-colors"
+            >
               Research
             </Link>
           </li>
           <li>
-            <Link href="/product" className="hover:text-primary transition-colors">
+            <Link
+              href="/product"
+              className="hover:text-primary transition-colors"
+            >
               Product
             </Link>
           </li>
           <li>
-            <Link href="/professional-skills" className="hover:text-primary transition-colors">
+            <Link
+              href="/professional-skills"
+              className="hover:text-primary transition-colors"
+            >
               Professional Skills
             </Link>
           </li>
           <li>
-            <Link href="/durable-skills" className="hover:text-primary transition-colors">
+            <Link
+              href="/durable-skills"
+              className="hover:text-primary transition-colors"
+            >
               Durable Skills
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/works-cited"
+              className="hover:text-primary transition-colors"
+            >
+              Works Cited
             </Link>
           </li>
         </ul>
       </nav>
     </motion.header>
-  )
+  );
 }
 
 export default Header

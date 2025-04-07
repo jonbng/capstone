@@ -63,7 +63,7 @@ export default function Product() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Explore Brainwave
+              Open Brainwave
             </Link>
           </Button>
         </CardFooter>
