@@ -11,8 +11,8 @@ const Header = () => {
       transition={{ duration: 0.5 }}
       className="bg-background shadow-md"
     >
-      <nav className="container mx-auto px-4 py-4">
-        <ul className="flex space-x-4">
+      <nav className="container mx-auto px-8 py-4">
+        <ul className="flex space-x-4 justify-between">
           <li>
             <Link href="/" className="hover:text-primary transition-colors">
               About Me
