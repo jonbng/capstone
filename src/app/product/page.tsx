@@ -4,7 +4,13 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardFooter } from "@/components/ui/card";
+import {
+  Card,
+  CardContent,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
 
 export default function Product() {
   return (
@@ -67,6 +73,21 @@ export default function Product() {
             </Link>
           </Button>
         </CardFooter>
+      </Card>
+
+      <Card>
+        <CardHeader>
+          <CardTitle className="text-3xl">English Product</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <Image
+            src="canva-thingy.png"
+            alt="English Canva Product"
+            width={800}
+            height={450}
+            className="rounded-lg shadow-lg my-2 border border-zinc-600"
+          />
+        </CardContent>
       </Card>
     </motion.div>
   );

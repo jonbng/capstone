@@ -15,7 +15,7 @@ const Header = () => {
         <ul className="flex space-x-4">
           <li>
             <Link href="/" className="hover:text-primary transition-colors">
-              Home
+              About Me
             </Link>
           </li>
           <li>
@@ -24,14 +24,6 @@ const Header = () => {
               className="hover:text-primary transition-colors"
             >
               Introduction
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/math-competency"
-              className="hover:text-primary transition-colors"
-            >
-              Math Competency
             </Link>
           </li>
           <li>
@@ -68,10 +60,18 @@ const Header = () => {
           </li>
           <li>
             <Link
-              href="/works-cited"
+              href="/math-competency"
               className="hover:text-primary transition-colors"
             >
-              Works Cited
+              Math Competency
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/conclusion"
+              className="hover:text-primary transition-colors"
+            >
+              Conclusion
             </Link>
           </li>
         </ul>

@@ -13,24 +13,32 @@ export default function DurableSkills() {
       className="space-y-8"
     >
       <h1 className="text-5xl font-extrabold mb-8 bg-gradient-to-r from-primary to-blue-600 text-transparent bg-clip-text">
-        Research
+        Conclusion & Connection to Gladwell
       </h1>
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-3xl">Research Writeup</CardTitle>
+          <CardTitle className="text-3xl">
+            Conclusion
+          </CardTitle>
         </CardHeader>
         <CardContent>
-          <p className="text-lg">bla bla conclusion here</p>
+          <p className="text-lg">
+            bla bla conclusion here
+          </p>
         </CardContent>
       </Card>
 
       <Card>
         <CardHeader>
-          <CardTitle className="text-3xl">Works Cited</CardTitle>
+          <CardTitle className="text-3xl">
+            Connection to Gladwell
+          </CardTitle>
         </CardHeader>
         <CardContent>
-          <p className="text-lg">eyyyyy</p>
+          <p className="text-lg">
+            eyyyyy
+          </p>
         </CardContent>
       </Card>
     </motion.div>
