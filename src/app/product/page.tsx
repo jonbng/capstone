@@ -21,8 +21,23 @@ export default function Product() {
       className="space-y-8"
     >
       <h1 className="text-5xl font-extrabold mb-8 bg-gradient-to-r from-primary via-accent to-blue-600 text-transparent bg-clip-text">
-        My Product
+        My Products
       </h1>
+
+      <Card>
+        <CardHeader>
+          <CardTitle className="text-3xl">English Product</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <Image
+            src="canva-thingy.png"
+            alt="English Canva Product"
+            width={800}
+            height={450}
+            className="rounded-lg shadow-lg my-2 border border-zinc-600"
+          />
+        </CardContent>
+      </Card>
 
       <div className="relative w-full h-[400px] mb-8 rounded-xl overflow-hidden">
         <Image
@@ -73,21 +88,6 @@ export default function Product() {
             </Link>
           </Button>
         </CardFooter>
-      </Card>
-
-      <Card>
-        <CardHeader>
-          <CardTitle className="text-3xl">English Product</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <Image
-            src="canva-thingy.png"
-            alt="English Canva Product"
-            width={800}
-            height={450}
-            className="rounded-lg shadow-lg my-2 border border-zinc-600"
-          />
-        </CardContent>
       </Card>
     </motion.div>
   );
