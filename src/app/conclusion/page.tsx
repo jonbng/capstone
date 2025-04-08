@@ -24,7 +24,7 @@ export default function DurableSkills() {
         </CardHeader>
         <CardContent>
           <p className="text-lg">
-            bla bla conclusion here
+            conclusion here
           </p>
         </CardContent>
       </Card>

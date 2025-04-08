@@ -21,7 +21,7 @@ export default function DurableSkills() {
           <CardTitle className="text-3xl">Research Writeup</CardTitle>
         </CardHeader>
         <CardContent>
-          <p className="text-lg">bla bla conclusion here</p>
+          <p className="text-lg">writeup here</p>
         </CardContent>
       </Card>
 
@@ -30,7 +30,7 @@ export default function DurableSkills() {
           <CardTitle className="text-3xl">Works Cited</CardTitle>
         </CardHeader>
         <CardContent>
-          <p className="text-lg">eyyyyy</p>
+          <p className="text-lg">works cited goes here</p>
         </CardContent>
       </Card>
     </motion.div>
