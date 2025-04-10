@@ -21,7 +21,24 @@ export default function DurableSkills() {
           <CardTitle className="text-3xl">Conclusion</CardTitle>
         </CardHeader>
         <CardContent>
-          <p className="text-lg">conclusion here</p>
+          <div className="space-y-4">
+            <p className="text-lg">
+              Schools need to stop treating AI like it's a threat or a shortcut. The best way to truly bring AI into schools is to focus on the new opportunities it opens up. You have to make sure students don't just think of AI as a tool that can do their homework for them, or speed up the process. Make them realize how powerful of a thinking partner and idea generator it is. That means just giving students access to AI isn't enough, we need dedicated units on showing how and when to use it.
+            </p>
+            
+            <div className="mt-6">
+              <h3 className="text-xl font-semibold mb-3">What students should learn about AI:</h3>
+              <p className="text-sm text-muted-foreground mb-4">(based on research by Rachelle Dené Poth, Edutopia)</p>
+              
+              <ul className="list-disc pl-6 space-y-2">
+                <li>What AI actually is and where it's used</li>
+                <li>The technology behind AI, like simple introductions to machine learning, algorithms and Generative AI</li>
+                <li>How to spot misinformation/hallucinations and critically evaluate AI content</li>
+                <li>The ethical part of AI, the biases, privacy concerns and how to ethically use it</li>
+                <li>How not just to offload your critical thinking to AI, but use it like a tool</li>
+              </ul>
+            </div>
+          </div>
         </CardContent>
       </Card>
 
