@@ -24,21 +24,6 @@ export default function Product() {
         My Products
       </h1>
 
-      <Card>
-        <CardHeader>
-          <CardTitle className="text-3xl">English Product</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <Image
-            src="canva-thingy.png"
-            alt="English Canva Product"
-            width={800}
-            height={450}
-            className="rounded-lg shadow-lg my-2 border border-zinc-600"
-          />
-        </CardContent>
-      </Card>
-
       <div className="relative w-full h-[400px] mb-8 rounded-xl overflow-hidden">
         <Image
           src="/brainwave2.png"
@@ -88,6 +73,28 @@ export default function Product() {
             </Link>
           </Button>
         </CardFooter>
+      </Card>
+
+      <Card>
+        <CardHeader>
+          <CardTitle className="text-3xl">Brainwave Brochure</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <Image
+            src="Front.png"
+            alt="Front brochure"
+            width={1080}
+            height={720}
+            className="rounded-lg shadow-lg my-2 border border-zinc-600"
+          />
+          <Image
+            src="Back.png"
+            alt="Back brochure"
+            width={1080}
+            height={720}
+            className="rounded-lg shadow-lg my-2 border border-zinc-600"
+          />
+        </CardContent>
       </Card>
     </motion.div>
   );

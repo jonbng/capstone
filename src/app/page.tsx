@@ -52,7 +52,7 @@ export default function Home() {
                 I'm Jonathan Bangert, a 17-year-old exchange student from
                 Denmark and a software engineer. I love building things that
                 make technology more intuitive and impactful. I co-founded
-                Akademia, work as a Software Engineer at Flimmer, and enjoy
+                Akademia, am a Software Engineer at Flimmer, and enjoy
                 creating tools that last.
                 <br />I am a Junior at Arvada West High School, and will be
                 returning to Denmark this summer.
